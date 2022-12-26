@@ -1,0 +1,30 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/*
+div{
+    border:1px solid blue
+}
+*/
+
+.header{
+
+}
+.footer{
+  
+
+}
+.category-column{
+    width: 25%;
+    float:left
+
+}
+.headline-column{
+    width: 50%;
+    float:left
+
+}
+.weather-column{
+width: 25%;
+float:left
+}
